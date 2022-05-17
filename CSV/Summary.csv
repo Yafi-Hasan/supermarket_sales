@@ -1,0 +1,17 @@
+,Feature Names,Data Types,Rows,Duplicate Rows,Num Missing Val,% Missing Val,Num Unique Val,% Unique Val
+0,Invoice ID,object,1000,0,0,0.0,1000,1.0
+1,Customer type,object,1000,0,0,0.0,2,0.002
+2,Gender,object,1000,0,0,0.0,2,0.002
+3,Product line,object,1000,0,0,0.0,6,0.006
+4,Unit price,float64,1000,0,0,0.0,943,0.943
+5,Quantity,int64,1000,0,0,0.0,10,0.01
+6,Tax 5%,float64,1000,0,0,0.0,990,0.99
+7,Total,float64,1000,0,0,0.0,990,0.99
+8,Payment,object,1000,0,0,0.0,3,0.003
+9,cogs,float64,1000,0,0,0.0,990,0.99
+10,gross income,float64,1000,0,0,0.0,990,0.99
+11,Rating,float64,1000,0,0,0.0,61,0.061
+12,City Branch,object,1000,0,0,0.0,3,0.003
+13,Datetime,datetime64[ns],1000,0,0,0.0,994,0.994
+14,Month,object,1000,0,0,0.0,3,0.003
+15,Hour,int64,1000,0,0,0.0,11,0.011
