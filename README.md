@@ -1,2 +1,4 @@
-# supermarket_sales
-Data analysis from a supermarket sales dataset
+# Member-Type Customer Optimization Basead on Supermarket Sales
+
+Data analysis from a supermarket sales dataset by Aung Pyae (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) to optimize member-type customer.
+
